@@ -22,7 +22,9 @@ curl http://localhost:8080/api/tracks/1
 **Ожидаемый результат:** Статус 200, трек "Bohemian Rhapsody"
 
 **Ответ:***
-
+```
+{"id":1,"title":"Bohemian Rhapsody","artist":"Queen","album":"A Night at the Opera","duration":354}
+```
 
 ## Тест 3: Фильтрация по исполнителю
 ```bash
