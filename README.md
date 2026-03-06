@@ -41,7 +41,9 @@ PotapkinPrac1/
 ### Способ 1: Через командную строку
 
 1. Клонируйте репозиторий или распакуйте архив с проектом
-
+```bash
+git clone https://github.com/Yaroslafffchik/Potapkin_Framework_Prac1_6sem.git
+```
 2. Перейдите в директорию проекта:
 ```bash
 cd PotapkinPrac1
